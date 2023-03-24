@@ -1,2 +1,2 @@
-# SignalDetection
-Keras, TensorFlow, SciKitLearn, 
+# Signal Detection
+Keras, TensorFlow, SciKitLearn for Signal Dectection
